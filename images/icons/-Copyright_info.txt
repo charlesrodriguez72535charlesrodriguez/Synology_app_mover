@@ -2,3 +2,5 @@ The icons in this folder are either Copyright © Synology Inc. or Copyright © t
 https://kb.synology.com/en-br/DSM/help/DSM/Home/about?version=7
 
 # Update: 2025-10-05
+
+# Update: 2025-10-06
