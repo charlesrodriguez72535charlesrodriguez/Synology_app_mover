@@ -332,3 +332,5 @@ https://github.com/007revad/Synology_app_mover/assets/e308839a-1a3d-402b-9920-dc
 ### Credits
 - wallacebrf for extensive beta testing of syno_app_mover v3.
 - ctrlaltdelete for the code to export Container Manager/Docker container's settings.
+
+<!-- Auto-update: 2025-10-12T15:54:25.705194 -->
